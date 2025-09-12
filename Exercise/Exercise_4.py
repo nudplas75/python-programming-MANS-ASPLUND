@@ -1,6 +1,5 @@
 import math
 
-# Values from exercise about fire predictions
 TP = 2
 FP = 2
 FN = 11
